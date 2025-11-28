@@ -36,10 +36,16 @@ Como alternativa, consulte a documentação do GitHub em como criar uma solicita
 Colaboradores
 
 Anália Oliveira
+
 Bruno de Oliveira
+
 Carlos Eduardo
+
 Matheus Duarte
+
 Thayna Correia
+
 Francisco Aurizelio
+
 
 
