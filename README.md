@@ -1,6 +1,6 @@
 # ✍️ Agenda Eventos ✍️
 
-(https://github.com/GMsnl/Agenda-Eventos/blob/main/Agenda_eventos.jpeg?raw=true)
+![Agenda-Eventos](https://github.com/GMsnl/Agenda-Eventos/blob/main/Agenda_eventos.jpeg)
 
 O aplicativo tem como objetivo mostrar próximos eventos que a pessoa pode marcar para ir.
 
