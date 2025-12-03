@@ -15,7 +15,7 @@ Nenhuma
 Para importar o projeto para o seu Android Studio, siga os passos
  
 	1º Faça o Download e extraia a pasta.
-	2º Copie a pasta ( Crtl+C) e cole em algum diretório de seu gosto (Crtl+V).
+	2º Copie a pasta (Crtl+C) e cole em algum diretório de seu gosto (Crtl+V).
 	3º Vá no Android Studio e abra o diretório e inicie o cplicativo.
 	4º Após importar tudo, aproveite!
 
