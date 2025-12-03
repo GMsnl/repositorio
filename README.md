@@ -1,5 +1,4 @@
 # Agenda Eventos
-GitHub repo size GitHub language count GitHub forks Bitbucket open issues Bitbucket open pull requests
 
 Exemplo imagem
 
@@ -9,23 +8,16 @@ O aplicativo tem como objetivo mostrar próximos eventos que a pessoa pode marca
 // eu não sei o que precisa ser melhorado
 
 ## Pré-requisitos
-// eu não sei os pré-requisitos
+	É importante ter o Android Studio para testar e para a visualização se faz necessário ter um dispositivo android conectado no computador para o download do apk ou o uso de um SDK ( Celular virtual) para a utilização do aplicativo.
 
 ## Instalando <nome_do_projeto>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
-
-Linux e macOS:
-
-```
-<comando_de_instalação>
-```
-
-Windows:
-
-```
-<comando_de_instalação>
-```
+	 Para importar o projeto para o seu Android Studio, siga os passos
+ 
+	1º Faça o Download e extraia a pasta.
+	2º Copie a pasta ( Crtl+C) e cole em algum diretório de seu gosto (Crtl+V).
+	3º Vá no Android Studio e abra o diretório e inicie o cplicativo.
+	4º Após importar tudo, aproveite!
 
 ## Usando <nome_do_projeto>
 
