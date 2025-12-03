@@ -1,7 +1,9 @@
 # ✍️ Agenda Eventos ✍️
 
+<div align="center">
 ![Agenda-Eventos](https://github.com/GMsnl/Agenda-Eventos/blob/main/Agenda_eventos.jpeg)
-align=center
+</div> 
+
 
 O aplicativo tem como objetivo mostrar próximos eventos que a pessoa pode marcar para ir.
 
