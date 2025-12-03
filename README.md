@@ -4,13 +4,13 @@ Exemplo imagem
 
 O aplicativo tem como objetivo mostrar próximos eventos que a pessoa pode marcar para ir.
 
-## Ajustes e melhorias
+## 🛠️ Ajustes e melhorias 🦾
 Nenhuma
 
-## Pré-requisitos
+## 🕛 Pré-requisitos 📖
 É importante ter o Android Studio para testar e para a visualização se faz necessário ter um dispositivo android conectado no computador para o download do apk ou o uso de um SDK ( Celular virtual) para a utilização do aplicativo.
 
-## Instalando Agenda Eventos
+## ⬇️ Instalando Agenda Eventos ⬇️
 
 Para importar o projeto para o seu Android Studio, siga os passos
  
@@ -19,7 +19,7 @@ Para importar o projeto para o seu Android Studio, siga os passos
 	3º Vá no Android Studio e abra o diretório e inicie o cplicativo.
 	4º Após importar tudo, aproveite!
 
-## Usando Agenda Eventos
+## ▶️ Usando Agenda Eventos ✍️
 
 Para usar o Agenda Eventos, siga estas etapas:
 
@@ -29,7 +29,7 @@ Para usar o Agenda Eventos, siga estas etapas:
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
 
-## Colaboradores
+## 👫 Colaboradores 👫
 
 Anália Oliveira
 
