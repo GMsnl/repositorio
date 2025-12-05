@@ -23,11 +23,40 @@ Para importar o projeto para o seu Android Studio, siga os passos
 
 Para usar o Agenda Eventos, siga estas etapas:
 
-```
-<exemplo_de_uso>
-```
+### 1. Clonar o Repositório
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
+git clone https://github.com/GMsnl/Agenda-Eventos.git
+cd Agenda-Eventos
+
+### 2. Instalar Dependências
+
+npm install
+ou
+yarn install
+
+### 3. Executar em Modo Desenvolvimento
+
+npm run dev
+ou
+yarn dev
+
+Acesse: [*http://localhost:3000*](http://localhost:3000) 🚀
+
+### 4. Build para Produção
+npm run build
+npm start
+
+### 5. Rodar Testes
+
+npm test
+OU
+yarn test
+
+### 6. Comandos Úteis
+
+npm run lint # Verifica código
+npm run logs # Ver logs
+git push origin main # Deploy Git
 
 ## 👫 Colaboradores 👫
 
